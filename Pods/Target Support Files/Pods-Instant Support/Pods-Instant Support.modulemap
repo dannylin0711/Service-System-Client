@@ -1,0 +1,6 @@
+framework module Pods_Instant_Support {
+  umbrella header "Pods-Instant Support-umbrella.h"
+
+  export *
+  module * { export * }
+}
